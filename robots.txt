@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nuckelielect.github.io/sitemap
+Sitemap: https://nuckelielect.github.io/app/sitemap
+Sitemap: https://nuckelielect.github.io/assets/sitemap
+Sitemap: https://nuckelielect.github.io/css/sitemap
+Sitemap: https://nuckelielect.github.io/includes/sitemap
+Sitemap: https://nuckelielect.github.io/item/sitemap
+Sitemap: https://nuckelielect.github.io/src/sitemap
